@@ -14,7 +14,7 @@ Designed to demonstrate game development using Javascript and Phaser3
 - Press `ESC` to exit the game at any time
 - Restart the game with a click after Game Over or Exit
 
-## 📸 Preview
+## Preview
 
 ---
 
